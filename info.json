@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "UsefulLinks",
+            "version": "1.0.0",
+            "description": "An interesting collection of CS-related links",
+            "longDescription": "Repository for links that I find interesting and useful for anything related to development or computer science",
+            "githubLink": "https://github.com/michaelpeterswa/UsefulLinks",
+            "date": "05.19.2020"
+        }
+    ]
+}

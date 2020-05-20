@@ -1,0 +1,5 @@
+// website for creating code screenshots
+https://carbon.now.sh/
+
+// cli for creating terminal gifs
+https://asciinema.org/

@@ -3,3 +3,15 @@ https://carbon.now.sh/
 
 // cli for creating terminal gifs
 https://asciinema.org/
+
+// good method for keeping commits clear
+https://www.conventionalcommits.org/en/v1.0.0/
+
+// semantic versioning specifications
+https://semver.org/
+
+// Key words for use in RFCs to Indicate Requirement Levels
+https://www.ietf.org/rfc/rfc2119.txt
+
+// the best time and date format in the world
+https://www.iso.org/iso-8601-date-and-time-format.html
